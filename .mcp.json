@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "activitect": {
+      "type": "http",
+      "url": "https://cl-drive-backend.vercel.app/api/mcp/public"
+    }
+  }
+}
