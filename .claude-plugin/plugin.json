@@ -1,7 +1,7 @@
 {
   "name": "activitect",
   "displayName": "Activitect: CL for Desmos & Amplify",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Plans custom activities for Amplify Classroom (formerly Desmos Classroom) and writes their Computation Layer (CL) code from a curated, read-only knowledge base.",
   "author": {
     "name": "Aaron Veek",

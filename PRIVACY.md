@@ -1,6 +1,6 @@
 # Privacy policy: Activitect for Claude
 
-Last updated: October 6, 2026
+Last updated: October 23, 2026
 
 Activitect is an independent project by Aaron Veek. This policy covers the Claude plugin `activitect` and its connector at `https://cl-drive-backend.vercel.app/api/mcp/public`.
 
@@ -14,7 +14,7 @@ Each call is used only to look up knowledge-base text and return it to Claude in
 
 ## Storage and retention
 
-The connector stores nothing from your requests. Its hosting provider, Vercel, keeps a technical log of each request (such as the time, the address requested, the status and the client type) for about one hour. If you email support, your message is kept until you ask for it to be deleted. The same goes for the optional feedback form Claude may offer at the end of a session: it is a Google Form, nothing reaches it unless you open it and submit it yourself, and your answers are kept until you ask for them to be deleted.
+The connector stores nothing from your requests. Its hosting provider, Vercel, keeps a technical log of each request (such as the time, the address requested, the status and the client type) for up to 30 days. If you email support, your message is kept until you ask for it to be deleted. The same goes for the optional feedback form Claude may offer at the end of a session: it is a Google Form, nothing reaches it unless you open it and submit it yourself, and your answers are kept until you ask for them to be deleted.
 
 ## Sharing
 

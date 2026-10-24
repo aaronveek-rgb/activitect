@@ -31,14 +31,14 @@ Without the plugin, for example on a Free plan: add `https://cl-drive-backend.ve
 
 ## What it sends and stores
 
-The plugin runs no code on your computer. When Claude uses the connector, the server receives only what each tool call carries: search terms, knowledge-base entry IDs and document names. It never receives your conversation, your name or your account details, and it stores nothing from your requests. Its hosting provider, Vercel, keeps a technical log of each request for about one hour. At the end of a session Claude may offer an optional feedback form (Google Forms, https://docs.google.com/forms/d/e/1FAIpQLSdAQtS9u0NmhnyxwPcw5VGtZrIQREKRUU6WI2NK1sg8R93RNQ/viewform); nothing reaches it unless you open it and submit it yourself. Details are in [PRIVACY.md](PRIVACY.md).
+The plugin runs no code on your computer. When Claude uses the connector, the server receives only what each tool call carries: search terms, knowledge-base entry IDs and document names. It never receives your conversation, your name or your account details, and it stores nothing from your requests. Its hosting provider, Vercel, keeps a technical log of each request for up to 30 days. At the end of a session Claude may offer an optional feedback form (Google Forms, https://docs.google.com/forms/d/e/1FAIpQLSdAQtS9u0NmhnyxwPcw5VGtZrIQREKRUU6WI2NK1sg8R93RNQ/viewform); nothing reaches it unless you open it and submit it yourself. Details are in [PRIVACY.md](PRIVACY.md).
 
 ## Limits
 
-Claude can't see or change your Desmos or Amplify account; you paste the code into the activity builder yourself. Preview and test every activity before students use it.
+Claude can't see or change your Desmos or Amplify account; you paste the code into the activity builder yourself. Preview and test every activity before students use it. Terms of use are in [TERMS.md](TERMS.md).
 
 ## Support
 
-Email aaronveek@gmail.com or visit https://cl-drive-backend.vercel.app/support.
+Email aaronveek@gmail.com, or use the support page: https://cl-drive-backend.vercel.app/support
 
 Every activity and pattern in the knowledge base comes from activities the author built.
