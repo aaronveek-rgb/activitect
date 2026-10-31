@@ -1,7 +1,7 @@
 {
   "name": "activitect",
   "displayName": "Activitect: CL for Desmos & Amplify",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Plans custom activities for Amplify Classroom (formerly Desmos Classroom) and writes their Computation Layer (CL) code from a curated, read-only knowledge base.",
   "author": {
     "name": "Aaron Veek",
@@ -10,6 +10,9 @@
   "homepage": "https://github.com/aaronveek-rgb/activitect",
   "repository": "https://github.com/aaronveek-rgb/activitect",
   "privacyPolicyUrl": "https://github.com/aaronveek-rgb/activitect/blob/main/PRIVACY.md",
+  "documentationUrl": "https://github.com/aaronveek-rgb/activitect/blob/main/README.md",
+  "supportUrl": "https://cl-drive-backend.vercel.app/support",
+  "termsOfServiceUrl": "https://github.com/aaronveek-rgb/activitect/blob/main/TERMS.md",
   "license": "MIT",
   "keywords": [
     "desmos",
